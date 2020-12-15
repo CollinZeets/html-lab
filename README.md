@@ -1,2 +1,3 @@
 # html-lab
-Lab for HTML
+
+[Table of Contents](Index.html)
