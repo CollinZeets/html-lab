@@ -1,0 +1,31 @@
+header{
+    text-align:center;
+    font-size: 40px;
+    font-family:fantasy;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: darkgoldenrod;
+    }
+    nav {
+        clear: both;
+    }
+    nav ul {
+        text-align: center;
+    }
+    
+    nav li {
+        display: inline-block;
+        margin-top: 25px;
+        margin-right: 25px;
+        margin-left: 25px;
+        padding: 10px;
+        list-style-type: none;
+        font-size: 20px;
+        background-color:darkgoldenrod;
+    
+
+    }
+    body{
+       text-align:center;
+       background-color: darkgrey;
+    }
